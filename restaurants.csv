@@ -1,0 +1,301 @@
+,restaurant.name,restaurant.cuisines,restaurant.average_cost_for_two,restaurant.user_rating.aggregate_rating,restaurant.timings,restaurant.all_reviews_count,restaurant.user_rating.votes,restaurant.location.latitude,restaurant.location.longitude,coordinate,Arts_Entertainment,College_University,Event,Nightlife_Spot,Outdoors_Recreation,Professional_n_Other_Places,Shop_Service,Travel_Transport,Residence,class
+0,City Cafe,"Diner, Seafood, Southern",10,3.8,"(Sun, Sat), Breakfast, Lunch (Mon-Fri)",38,288.0,33.2181,-87.5783,"(33.2181, -87.5783)",4,0,1,1,0,1,0,2,0,4
+1,Swen Chinese Restaurant,Chinese,25,3.6,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",37,192.0,33.21082,-87.55275,"(33.21082, -87.55275)",6,23,1,9,4,4,4,0,1,3
+2,DePalma's Italian Cafe,Italian,40,3.8,"Closed (Mon),11 AM to 10 PM (Tue-Thu),11 AM to 11 PM (Fri-Sat),11 AM to 9 PM (Sun)",93,428.0,33.2104,-87.5671,"(33.2104, -87.5671)",11,0,2,17,3,6,2,7,1,0
+3,Cypress Inn,"American, Seafood, Steak",40,3.5,"11 AM to 9 PM (Mon-Thu), 11 AM to 10 PM (Fri-Sat), 11 AM to 8 PM (Sun)",60,303.0,33.22921,-87.52863,"(33.22921, -87.52863)",0,0,0,0,0,2,0,0,1,1
+4,Mugshots Grill & Bar,"American, Burger, Bar Food",10,3.6,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),11 AM to 9 PM (Sun)",74,295.0,33.2096,-87.5681,"(33.2096, -87.5681)",11,0,2,17,3,6,2,7,1,0
+5,Hooligan's American,"American, Mediterranean",10,3.6,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",39,246.0,33.2115,-87.5618,"(33.2115, -87.5618)",9,0,2,24,3,5,4,7,1,0
+6,Dreamland BBQ Tuscaloosa,"BBQ, Desserts",25,3.5,"10 AM to 9 PM (Mon-Sat), 11 AM to 9 PM (Sun)",62,266.0,33.15737,-87.51676,"(33.15737, -87.51676)",0,0,0,0,0,0,0,0,0,4
+7,Chuck's Fish,"American, Seafood, Sushi",40,3.5,"5 PM to 10 PM (Mon-Thu),5 PM to 11 PM (Fri-Sat),Closed (Sun)",47,242.0,33.209613,-87.568381,"(33.209613, -87.568381)",11,0,2,17,3,6,2,7,1,0
+8,Waysider,"American, Breakfast, Southern",10,3.6,"Closed (Mon),5:30 AM to 2 PM (Tue-Fri),5:30 AM to 12 Noon (Sat),6:30 AM to 1 PM (Sun)",39,236.0,33.1996,-87.5643,"(33.1996, -87.5643)",3,0,1,2,2,3,0,1,1,4
+9,Nick's in the Sticks,Steak,25,3.7,"5 PM to 9 PM (Mon-Thu),5 PM to 10 PM (Fri-Sat),Closed (Sun)",38,207.0,33.177203,-87.614321,"(33.177203, -87.614321)",0,0,0,0,0,0,0,0,0,4
+10,Hokkaido,"Japanese, Sushi",40,3.7,"11 AM to 2:30 PM, 4:30 PM to 10 PM (Mon-Thu, Sun), 11 AM to 2:30 PM, 4:30 PM to 11 PM (Fri-Sat)",43,234.0,33.1968566,-87.5282368,"(33.1968566, -87.5282368)",0,1,0,1,3,3,16,0,4,2
+11,Baumhower's Restaurant,"American, Burger, Steak",25,3.5,"9:50 AM a 10:10 AM (Seg),10 AM a 8 PM (Ter-Dom)",106,214.0,33.212937,-87.523579,"(33.212937, -87.523579)",0,2,0,1,2,2,0,1,5,1
+12,Five Bar Tuscaloosa,Coffee and Tea,40,3.6,"5 PM to 10 PM (Mon-Thu),11 AM to 12 Midnight (Fri-Sat),10:30 AM to 10 PM (Sun)",50,200.0,33.209271,-87.566952,"(33.209271, -87.566952)",11,0,2,17,3,6,2,6,1,0
+13,Surin of Thailand,"Sushi, Thai",25,3.6,"11 AM to 2 PM, 4:30 PM to 9:30 PM (Mon-Thu),11 AM to 2 PM, 4:30 PM to 10 PM (Fri),11:30 AM to 2:30 PM, 5 PM to 10 PM (Sat),11:30 AM to 2:30 PM, 5 PM to 9:30 PM (Sun)",43,201.0,33.211304,-87.55533,"(33.211304, -87.55533)",7,16,1,11,4,3,3,2,1,3
+14,Rama Jamas,"American, Burger",10,3.6,"(Sun),Breakfast, Lunch (Mon-Sat)",38,188.0,33.2065,-87.5517,"(33.2065, -87.5517)",5,24,1,8,3,3,4,0,3,3
+15,Kobe Japanese Steakhouse & Sushi Bar,"Japanese, Sushi",40,3.5,"11 AM to 2 PM, 4:30 PM to 10 PM (Mon-Thu),11 AM to 2 PM, 4:30 PM to 11 PM (Fri),11:30 AM to 11 PM (Sat),11:30 AM to 10 PM (Sun)",38,145.0,33.194413,-87.526284,"(33.194413, -87.526284)",1,1,0,1,3,2,16,1,2,2
+16,Ichiban Japanese Grill & Sushi,"Japanese, Sushi",10,3.6,"Lunch, Dinner (Sun, Tue, Wed, Fri, Sat),  (Mon),Dinner (Thu)",27,138.0,33.198892,-87.541599,"(33.198892, -87.541599)",2,1,0,1,1,3,1,1,4,4
+17,Iguana Grill,"Mexican, Seafood",25,3.4,,35,140.0,33.2355725,-87.5497772,"(33.2355725, -87.5497772)",1,0,0,0,4,1,0,1,1,4
+18,Newk's Eatery,"American, Sandwich",10,3.6,"11 AM to 10 PM (Mon-Sat), Sun Closed",22,140.0,33.206873,-87.533615,"(33.206873, -87.533615)",2,3,0,1,4,2,2,1,3,4
+19,Ruan Thai Restaurant Authentic,"Thai, Vegetarian",25,3.6,"(Sun),Lunch, Dinner (Mon-Fri),Dinner (Sat)",32,127.0,33.2112,-87.5559,"(33.2112, -87.5559)",8,15,1,13,4,3,3,2,1,3
+20,Lai Lai Restaurant,"Asian, Chinese",10,3.4,"11 AM to 2 PM, 5 PM to 9 PM (Mon-Sun)",29,85.0,33.229768,-87.5330649,"(33.229768, -87.5330649)",1,0,0,0,1,2,0,1,0,4
+21,Mr Chen's Authentic Cooking and Oriental Market,"Asian, Chinese, Hawaiian",10,3.6,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",27,127.0,33.2000455,-87.5435632,"(33.2000455, -87.5435632)",2,4,0,1,1,3,1,1,4,4
+22,Edelweiss German Bakery and Cafe,"Bakery, German",25,3.6,"6:30 AM to 5 PM (Mon-Sat),8 AM to 2 PM (Sun)",20,120.0,33.211245,-87.567738,"(33.211245, -87.567738)",10,0,2,17,3,6,2,7,1,0
+23,Los Tarascos,Mexican,10,3.5,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",28,106.0,33.1684,-87.5146,"(33.1684, -87.5146)",0,0,0,0,0,2,0,2,1,4
+24,Glory Bound Gyro Co,"American, Mediterranean",10,3.5,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),11 AM to 9 PM (Sun)",31,114.0,33.20968,-87.568116,"(33.20968, -87.568116)",11,0,2,17,3,6,2,7,1,0
+25,Taco Casa,"Fast Food, Mexican",10,3.5,"10:30 AM to 11 PM (Mon, Tue, Wed, Thu, Sun), 10:30 AM to 12 Midnight (Fri-Sat)",22,121.0,33.237149,-87.566315,"(33.237149, -87.566315)",0,0,0,0,3,0,0,1,1,4
+26,Broadway Pizzeria,"Italian, Pizza",10,3.5,"11 AM to 9:30 PM (Mon-Thu, Sun), 11 AM to 10:30 PM (Fri-Sat)",34,106.0,33.24228,-87.51215,"(33.24228, -87.51215)",0,0,0,0,0,1,0,0,0,4
+27,Buffalo Phil's Pub & Cafe,"American, Burger",10,3.4,"11 AM to 11 PM (Mon, Tue, Wed, Sat), 11 AM to 12 Midnight (Thu),11 AM to 11 PM, 12 Midnight to 2 AM (Fri),11 AM to 9 PM (Sun)",26,113.0,33.2106,-87.5529,"(33.2106, -87.5529)",6,23,1,9,4,4,4,0,1,3
+28,Tokyo Japanese Steak & Sushi,"Japanese, Steak, Sushi",40,3.5,"4:30 PM to 10 PM (Mon-Thu),4:30 PM to 11 PM (Fri-Sat),Closed (Sun)",24,98.0,33.1536,-87.5477,"(33.1536, -87.5477)",0,0,0,0,0,0,0,0,1,4
+29,Little Italy,"Italian, Pizza, Sandwich",10,3.5,"Lunch, Dinner (Sun),Lunch, Dinner, Late (Mon-Sat)",23,106.0,33.210867,-87.552707,"(33.210867, -87.552707)",6,23,1,9,4,4,4,0,1,3
+30,Sitar,Indian,25,3.5,"Lunch, Dinner (Sun, Tue, Wed, Thu, Fri, Sat),  (Mon)",24,110.0,33.1988,-87.5414,"(33.1988, -87.5414)",2,1,0,1,1,3,1,1,4,4
+31,The Avenue Pub,"Burger, Bar Food",25,3.5,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),11 AM to 4 PM (Sun)",30,85.0,33.2108954,-87.5671874,"(33.2108954, -87.5671874)",10,0,2,17,3,6,2,7,1,0
+32,Southern Ale House,Southern,25,3.4,"11 AM to 9 PM (Mon-Thu),11 AM to 10 PM (Fri),11 AM to 11 PM (Sat),11 AM to 2 PM (Sun)",37,79.0,33.231922,-87.538137,"(33.231922, -87.538137)",1,0,0,0,1,3,0,1,0,4
+33,Mr Gs Restaurant,"BBQ, Italian, Pizza",10,3.5,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",16,100.0,33.2375,-87.5676,"(33.2375, -87.5676)",0,0,0,0,3,0,0,2,1,4
+34,Full Moon Bar B Que,BBQ,25,3.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",28,86.0,33.197183,-87.508608,"(33.197183, -87.508608)",0,0,0,0,0,0,0,1,2,4
+35,Evangeline's,"American, Seafood",40,3.4,"(Sun),Dinner (Mon),Lunch, Dinner (Tue-Thu),Lunch, Dinner, Late (Fri),Dinner, Late (Sat)",28,73.0,33.2337,-87.5416,"(33.2337, -87.5416)",1,0,0,0,2,3,0,1,0,4
+36,Archibald & Woodrow's BBQ,BBQ,10,3.5,"10 AM to 9 PM (Mon-Thu), 10 AM to 10 PM (Fri-Sat), 11 AM to 6 PM (Sun)",19,79.0,33.16816,-87.54553,"(33.16816, -87.54553)",2,0,0,0,1,2,1,4,1,4
+37,Another Broken Egg Cafe,"American, Breakfast, Coffee and Tea",25,3.4,"Breakfast, Lunch (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",20,70.0,33.2289851,-87.5105752,"(33.2289851, -87.5105752)",0,0,0,0,0,2,0,0,2,4
+38,Moe's Original Bar B Que,BBQ,25,3.4,"Lunch, Dinner (Sun),Lunch, Dinner, Late (Mon-Sat)",26,78.0,33.21086,-87.564335,"(33.21086, -87.564335)",10,0,2,21,3,7,3,7,2,0
+39,Archibald's BBQ,BBQ,10,3.5,"Closed (Mon, Sun), 10:30 AM to 8 PM (Tue-Thu),10:30 AM to 9 PM (Fri-Sat)",21,83.0,33.22845,-87.571453,"(33.22845, -87.571453)",1,0,0,0,0,0,0,0,0,4
+40,Swen Chinese Restaurant,Chinese,10,3.5,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",13,75.0,33.240813,-87.589442,"(33.240813, -87.589442)",0,0,0,0,0,0,0,1,0,4
+41,Taco Casa,"Fast Food, Mexican",10,3.4,"10:30 AM to 11 PM (Mon, Tue, Wed, Thu, Sun), 10:30 AM to 12 Midnight (Fri-Sat)",10,85.0,33.196914,-87.528507,"(33.196914, -87.528507)",0,1,0,1,3,2,15,0,3,2
+42,Five Guys Burgers and Fries,"Fast Food, Burger",15,3.5,11 AM to 10 PM (Mon-Sun),6,87.0,33.194113,-87.52776,"(33.194113, -87.52776)",0,1,0,1,3,3,17,0,3,2
+43,Sweet Home Food Bar,"Breakfast, Tapas",25,3.3,"9 AM to 3 PM (Mon, Wed), 9 AM to 3 PM, 5:30 PM to 9 PM (Thu-Fri), 8 AM to 3 PM, 5:30 PM to 9 PM (Sat), 10 AM to 3 PM (Sun), Tue Closed",29,54.0,33.210603,-87.566415,"(33.210603, -87.566415)",10,0,2,17,3,7,2,7,1,0
+44,Big Daddy's Cafe,"American, Greek, Mediterranean",10,3.5,"Lunch, Dinner (Sun, Mon, Tue, Wed), Lunch, Dinner, Late (Thu-Sat)",12,73.0,33.209582,-87.568371,"(33.209582, -87.568371)",11,0,2,17,3,6,2,7,1,0
+45,Jason's Deli,"Sandwich, Vegetarian",10,3.5,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",8,77.0,33.1883,-87.5263,"(33.1883, -87.5263)",1,1,0,1,2,1,12,0,1,2
+46,Pearl Garden,Chinese,10,3.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",11,56.0,33.2345,-87.5756,"(33.2345, -87.5756)",0,0,0,0,0,0,2,3,0,4
+47,Hoo's Q,"American, BBQ, Southern",25,3.3,10:30 AM to 9 PM (Mon-Sun),23,52.0,33.197688,-87.535174,"(33.197688, -87.535174)",0,0,0,2,3,2,10,1,2,2
+48,Dreamland BBQ Northport,BBQ,10,3.4,"10 AM to 9 PM (Mon-Thu), 10 AM to 10 PM (Fri-Sat), 11 AM to 9 PM (Sun)",13,64.0,33.216,-87.57386,"(33.216, -87.57386)",10,0,1,14,1,3,2,6,0,0
+49,Jim 'N Nick's Bar-B-Q,BBQ,25,3.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",15,60.0,33.2129124,-87.5649758,"(33.2129124, -87.5649758)",9,0,2,19,3,6,3,7,1,0
+50,Taziki's Mediterranean Cafe,"American, Greek, Mediterranean",10,3.4,"11 AM to 9 PM (Mon-Sat), 11 AM to 8 PM (Sun)",14,61.0,33.1942195,-87.5278996,"(33.1942195, -87.5278996)",0,1,0,1,3,3,17,0,3,2
+51,LongHorn Steakhouse,"Burger, Bar Food, Steak",40,3.4,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",13,63.0,33.19726,-87.52569,"(33.19726, -87.52569)",0,1,0,1,3,3,16,1,4,2
+52,Taco Mama,"Mexican, Southwestern",10,3.3,"11 AM to 9 PM (Mon, Tue, Wed, Sun), 11 AM to 10 PM (Thu-Sat)",17,52.0,33.2109857,-87.5645283,"(33.2109857, -87.5645283)",10,0,2,21,3,7,3,7,2,0
+53,Buddy's Rib & Steak,"BBQ, Breakfast, Steak",25,3.3,"(Sun),Breakfast, Lunch, Dinner (Mon-Sat)",18,51.0,33.2378,-87.5767,"(33.2378, -87.5767)",0,0,0,0,0,0,2,3,0,4
+54,Jimmy John's,Sandwich,10,3.4,,7,68.0,33.2114,-87.5553,"(33.2114, -87.5553)",7,16,1,11,4,3,3,1,1,3
+55,Panera Bread,Sandwich,10,3.4,"6 AM to 10 PM (Mon-Fri), 6:30 AM to 9:30 PM (Sat), 7 AM to 10 PM (Sun)",6,68.0,33.19411,-87.52775,"(33.19411, -87.52775)",0,1,0,1,3,3,17,0,3,2
+56,Jalapeños Mexican Grill,Mexican,10,3.5,"11 AM to 2 PM, 5 PM to 9:30 PM (Mon-Thu),11 AM to 2 PM, 5 PM to 10:30 PM (Fri),11:30 AM to 10:30 PM (Sat),11:30 AM to 9:30 PM (Sun)",8,57.0,33.3024,-87.6061,"(33.3024, -87.6061)",0,0,0,0,0,0,0,0,0,4
+57,Outback Steakhouse,Steak,40,3.4,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",9,62.0,33.1657,-87.55187,"(33.1657, -87.55187)",2,0,0,0,1,0,1,3,0,4
+58,T-Town Cafe,"American, Diner, Southern",10,3.4,"10:30 AM to 3 PM (Mon-Fri, Sun), Sat Closed",16,51.0,33.20013,-87.54322,"(33.20013, -87.54322)",2,4,0,1,1,3,1,1,4,4
+59,The Side by Side,"American, French, Seafood",70,3.3,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",22,37.0,33.210124,-87.567048,"(33.210124, -87.567048)",11,0,2,17,3,6,2,7,1,0
+60,Innisfree Irish Pub,"Bar Food, Sandwich",10,3.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",12,56.0,33.211522,-87.561927,"(33.211522, -87.561927)",9,0,2,24,3,5,4,7,1,0
+61,Billy's Sports Grill,"American, Burger, Bar Food",40,3.2,"11 AM to 9 PM (Tue-Sat), 10:30 AM to 6 PM (Sun), Mon Closed",17,41.0,33.218853,-87.578778,"(33.218853, -87.578778)",4,0,1,1,0,1,0,2,0,4
+62,Wilhagan's of Tuscaloosa,"American, Burger, Bar Food",10,3.4,"Lunch, Dinner (Sun),Lunch, Dinner, Late (Mon-Sat)",10,57.0,33.211402,-87.566155,"(33.211402, -87.566155)",10,0,2,17,3,7,2,7,1,0
+63,Manna Grocery and Deli,"Sandwich, Vegetarian, Deli",10,3.4,"11 AM to 2:30 PM (Mon-Sat),Closed (Sun)",7,47.0,33.189342,-87.526321,"(33.189342, -87.526321)",1,1,0,1,2,1,13,0,1,2
+64,Oasis Bar & Grill,"American, Burger",25,3.4,"Closed (Mon),10:30 AM to 12 Midnight (Tue-Sun)",13,34.0,33.1901101,-87.4486035,"(33.1901101, -87.4486035)",0,0,0,0,0,0,0,1,0,4
+65,Chick-fil-A,Fast Food,10,3.4,"6 AM to 9 PM (Mon-Thu),6 AM to 10 PM (Fri-Sat),Closed (Sun)",3,56.0,33.1923,-87.5262,"(33.1923, -87.5262)",1,1,0,2,2,2,17,0,2,2
+66,Mr Bill's Family Dining,"American, Diner, Southern",10,3.4,"10:30 AM to 8 PM (Mon-Fri),Closed (Sat-Sun)",12,49.0,33.2406,-87.5841,"(33.2406, -87.5841)",0,0,0,0,0,0,2,2,0,4
+67,Shrimp Basket,"American, Seafood",25,3.3,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",17,40.0,33.1767305,-87.5243871,"(33.1767305, -87.5243871)",1,0,0,1,1,3,1,3,0,4
+68,Lee Palace,"Asian, Chinese",10,3.4,"Lunch, Dinner (Sun, Tue, Wed, Thu, Fri, Sat),  (Mon)",11,42.0,33.1155,-87.5512,"(33.1155, -87.5512)",0,0,0,0,0,1,1,0,0,4
+69,Henry's Burgers N Cream,"American, Burger, Desserts",10,3.3,"(Sun),Breakfast, Lunch, Dinner (Mon-Sat)",16,41.0,33.2542,-87.3267,"(33.2542, -87.3267)",0,0,0,0,0,0,0,0,0,4
+70,The Levee Bar & Grill,"Seafood, Steak, Bar Food",40,3.3,"11 AM to 9 PM (Mon-Thu),11 AM to 10 PM (Fri-Sat),10:30 AM to 3 PM (Sun)",20,37.0,33.215789,-87.572987,"(33.215789, -87.572987)",10,0,1,15,1,3,2,6,0,0
+71,New China Fun,Chinese,10,3.3,"11 AM to 9:30 PM (Mon-Thu),11 AM to 10:30 PM (Fri-Sat),12 Noon to 9:30 PM (Sun)",21,40.0,33.1978675,-87.4803551,"(33.1978675, -87.4803551)",0,0,0,0,1,0,1,0,0,4
+72,Olive Garden Italian Restaurant,Italian,25,3.2,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",11,49.0,33.19106,-87.52617,"(33.19106, -87.52617)",1,1,0,1,3,1,14,0,1,2
+73,Buffalo Wild Wings,Bar Food,25,3.3,"11 AM to 11 PM (Mon-Sat), 11 AM to 10 PM (Sun)",6,51.0,33.1839295678,-87.5267900527,"(33.1839295678, -87.5267900527)",1,1,0,1,1,1,2,1,1,4
+74,Krispy Kreme,"Coffee and Tea, Desserts",10,3.3,5 AM to 12 Midnight,2,34.0,33.2305,-87.53595,"(33.2305, -87.53595)",1,0,0,0,1,3,0,1,0,4
+75,Chang's Chinese Restaurant,"Chinese, Vegetarian",10,3.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",12,44.0,33.2357,-87.5495,"(33.2357, -87.5495)",1,0,0,0,5,1,0,1,1,4
+76,China Bob,Chinese,10,3.3,9 AM to 11 PM,19,33.0,33.2362,-87.6101,"(33.2362, -87.6101)",0,0,0,0,1,0,1,0,1,4
+77,Pita Pit,Sandwich,10,3.4,"10 AM to 3 AM (Mon-Wed), 10 AM to 4 AM (Thu-Sat), 10 AM to 1 AM (Sun)",10,44.0,33.2107,-87.5537,"(33.2107, -87.5537)",6,22,1,9,4,4,4,0,1,3
+78,Pastor's Kitchen Mexican Food,Mexican,10,3.4,"(Sun),Lunch, Dinner (Mon-Sat)",19,37.0,33.2156964,-87.5862263,"(33.2156964, -87.5862263)",2,0,1,1,0,0,0,1,0,4
+79,Chipotle Mexican Grill,"Fast Food, Mexican",10,3.4,"10:45 AM to 10 PM (Mon-Sat), Sun Closed",5,50.0,33.196755,-87.5270420466,"(33.196755, -87.5270420466)",0,1,0,1,3,3,16,1,4,2
+80,Edgar's Bakery and Cafe,"American, Breakfast",10,3.3,"(Sun),Breakfast, Lunch (Mon-Sat)",10,37.0,33.234587,-87.542287,"(33.234587, -87.542287)",1,0,0,0,2,3,0,1,0,4
+81,Southland Restaurant,American,10,3.4,"10:45 AM to 9 PM (Mon-Fri),Closed (Sat-Sun)",9,26.0,33.1888168,-87.4593878,"(33.1888168, -87.4593878)",0,0,0,0,0,0,0,1,0,4
+82,Moes Southwest Grill,Mexican,10,3.4,11 AM to 9 PM (Mon-Sun),5,47.0,33.188751,-87.52637,"(33.188751, -87.52637)",1,1,0,1,2,1,13,0,1,2
+83,Cracker Barrel Old Country Store,American,10,3.4,"6 AM to 10 PM (Mon-Thu, Sun), 6 AM to 11 PM (Fri-Sat)",8,45.0,33.17533,-87.47578,"(33.17533, -87.47578)",0,0,0,0,0,0,0,2,0,4
+84,Zoes Kitchen,Mediterranean,10,3.4,10 AM to 9:30 PM,9,44.0,33.2345819829,-87.5404580637,"(33.2345819829, -87.5404580637)",1,0,0,0,2,3,0,1,0,4
+85,Subs-N-You,Sandwich,15,3.4,,13,38.0,33.2096,-87.5687,"(33.2096, -87.5687)",11,0,2,17,3,6,2,6,1,0
+86,California Underground,"Pizza, Sandwich",20,3.4,"11 AM to 9 PM (Mon-Sat), Sun Closed",13,32.0,33.3503,-87.611,"(33.3503, -87.611)",0,0,0,0,0,0,0,0,0,4
+87,Taco Casa,"Fast Food, Mexican",10,3.3,"10:30 AM to 11 PM (Mon, Tue, Wed, Thu, Sun), 10:30 AM to 12 Midnight (Fri-Sat)",10,40.0,33.168,-87.5221,"(33.168, -87.5221)",0,0,0,0,0,4,0,5,0,4
+88,Brown Bag,"American, BBQ, Southern",10,3.4,"(Sun, Mon), Lunch, Dinner (Tue-Sat)",10,31.0,33.2848,-87.5882,"(33.2848, -87.5882)",0,0,0,0,0,0,0,0,0,4
+89,Pepito's Grill,Mexican,10,3.3,"Lunch, Dinner (Sun),Lunch, Dinner, Late (Mon-Sat)",6,35.0,33.231,-87.5346,"(33.231, -87.5346)",1,0,0,0,1,3,0,1,0,4
+90,Los Tarascos,"American, Mexican",10,3.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",5,41.0,33.23839,-87.58871,"(33.23839, -87.58871)",0,0,0,0,0,0,0,1,0,4
+91,Grand Buffet,"Asian, Chinese",10,3.3,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",16,28.0,33.1703,-87.5252,"(33.1703, -87.5252)",0,0,0,0,1,5,1,6,0,4
+92,Chicken Salad Chick of Northport,"American, Sandwich",25,3.4,"10 AM to 7 PM (Mon-Sat),Closed (Sun)",10,35.0,33.2363421,-87.5535971,"(33.2363421, -87.5535971)",0,0,0,0,3,0,0,0,1,4
+93,Catfish Heaven,"Seafood, American",20,3.4,"11 AM to 7 PM (Mon-Thu), 11 AM to 8 PM (Fri-Sat), Sun Closed",7,25.0,33.19361,-87.56213,"(33.19361, -87.56213)",1,0,0,1,1,0,0,0,1,4
+94,301 Bistro,American,60,3.3,"5 PM to 10 PM (Mon, Tue, Wed, Thu, Sun), 5 PM to 11 PM (Fri-Sat)",9,15.0,33.21149,-87.568621,"(33.21149, -87.568621)",10,0,2,17,3,5,2,7,0,0
+95,Chick-fil-A,Fast Food,10,3.4,"(Sun),Breakfast, Lunch, Dinner (Mon-Sat)",2,31.0,33.1953,-87.5257,"(33.1953, -87.5257)",0,1,0,1,3,3,16,1,3,2
+96,Taco Casa,Mexican,10,3.4,"10:30 AM to 11 PM (Mon, Tue, Wed, Thu, Sun), 10:30 AM to 12 Midnight (Fri-Sat)",5,36.0,33.1272,-87.5496,"(33.1272, -87.5496)",0,0,0,0,0,1,1,0,0,4
+97,Sharks Fish and Chicken,Seafood,10,3.3,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",10,28.0,33.19908,-87.54509,"(33.19908, -87.54509)",1,1,0,1,0,2,1,1,3,4
+98,Jalapeños Mexican Grill,Mexican,10,3.3,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",6,32.0,33.262455,-87.511655,"(33.262455, -87.511655)",0,0,0,0,0,0,0,0,1,4
+99,Wright's Restaurant,New American,25,3.3,"5 AM to 7:30 PM (Mon-Fri),5 AM to 1 PM (Sat),Closed (Sun)",6,17.0,33.204249,-87.488359,"(33.204249, -87.488359)",0,0,0,0,0,0,0,0,1,4
+100,Sa Za,"Italian, Pizza",40,4.2,"11 AM to 2 PM, 5 PM to 10 PM (Mon-Thu), 11 AM to 2 PM, 5 PM to 11 PM (Fri), 5 PM to 11 PM (Sat), 12 Noon to 9 PM (Sun)",101,262.0,32.37939,-86.31101,"(32.37939, -86.31101)",12,3,0,7,1,4,0,4,1,5
+101,Sushi Cafe,"Japanese, Sushi",25,4.9,"11 AM to 2:30 PM, 5 PM to 9:30 PM (Mon-Fri),5 PM to 9:30 PM (Sat),Closed (Sun)",45,139.0,32.355817,-86.264911,"(32.355817, -86.264911)",0,0,0,1,1,1,2,0,0,1
+102,Lek's Railroad Thai,"Asian, Sushi, Thai",25,4.5,"11 AM to 9 PM (Mon-Thu),11 AM to 10 PM (Fri-Sat),Closed (Sun)",51,230.0,32.3805,-86.314,"(32.3805, -86.314)",10,2,0,7,2,4,0,4,1,5
+103,Wishbone Cafe,"Sandwich, Seafood, Cajun",25,4.5,"(Sun),Lunch, Dinner (Mon-Sat)",59,150.0,32.382271,-86.171836,"(32.382271, -86.171836)",0,0,0,0,0,0,1,0,0,1
+104,Dreamland BBQ Montgomery,"BBQ, Burger, Sandwich",25,4.4,"10 AM to 9 PM (Mon-Thu), 10 AM to 10 PM (Fri-Sat), 11 AM to 9 PM (Sun)",59,198.0,32.38086,-86.31083,"(32.38086, -86.31083)",11,2,0,7,1,4,0,4,1,5
+105,Tomatinos Pizza & Bake Shop,"Pizza, Vegetarian",25,4.4,"Dinner (Sun),Lunch, Dinner (Mon-Sat)",56,227.0,32.3519,-86.2915,"(32.3519, -86.2915)",4,7,0,5,0,0,0,0,0,1
+106,Baumhower's Restaurant,"American, Burger, Steak",25,4.1,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",48,204.0,32.348699,-86.220864,"(32.348699, -86.220864)",2,0,1,3,0,0,2,1,5,1
+107,Uncle Mick's Cajun Market & Cafe,"Seafood, Vegetarian, Cajun",25,4.7,"11 AM to 2 PM (Mon),11 AM to 2 PM, 5 PM to 7:30 PM (Tue-Thu),11 AM to 2 PM, 5 PM to 8:30 PM (Fri-Sat),Closed (Sun)",78,188.0,32.460004579,-86.4740990982,"(32.460004579, -86.4740990982)",0,0,0,0,4,0,0,0,0,1
+108,Chris' Hot Dogs,Burger,10,4.4,"10 AM to 7 PM (Mon-Thu, Sat), 10 AM to 8 PM (Fri), Sun Closed",45,199.0,32.377231,-86.306747,"(32.377231, -86.306747)",16,3,0,7,1,7,0,4,1,5
+109,India Palace,"Indian, Vegetarian",25,4.5,"Closed (Mon),11 AM to 2:30 PM, 5 PM to 9:30 PM (Tue-Sun)",67,157.0,32.3423353,-86.2210988,"(32.3423353, -86.2210988)",1,0,0,3,1,0,2,1,1,1
+110,Mr. Gus' Ristorante,"Greek, Italian",25,4.2,"12 Midnight to 2 AM (Mon), 11 AM to 12 Midnight (Tue), 11 AM to 9 AM (Wed-Sat), 10:30 AM to 9 AM (Sun)",46,158.0,32.38207,-86.190673,"(32.38207, -86.190673)",0,0,0,1,0,0,0,0,0,1
+111,Bonefish Grill,"American, Seafood",40,4.1,"11 AM to 10 PM (Mon-Thu), 11 AM to 11 PM (Fri-Sat), 10 AM to 9 PM (Sun)",38,177.0,32.34221,-86.18442,"(32.34221, -86.18442)",1,0,0,0,0,0,2,0,1,1
+112,Wintzell's Oyster House,"Sandwich, Seafood, Cajun",40,3.7,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",61,157.0,32.37893,-86.31082,"(32.37893, -86.31082)",13,3,0,7,1,4,0,4,1,5
+113,Central Restaurant,Seafood,40,4.1,"11 AM to 2 PM, 5:30 PM to 10 PM (Mon-Thu), 11 AM to 2 PM, 5:30 PM to 11 PM (Fri), 5:30 PM to 11 PM (Sat), Sun Closed",58,138.0,32.37995,-86.31005,"(32.37995, -86.31005)",15,3,0,7,1,4,0,4,1,5
+114,La Zona Rosa,"Latin American, Mexican, Tex-Mex",10,4.3,"(Sun),Lunch, Dinner (Mon-Sat)",38,145.0,32.3597,-86.2651,"(32.3597, -86.2651)",0,0,0,1,1,1,2,0,0,4
+115,El Rey Burrito Lounge,"Mexican, Southwestern",25,4.2,"(Sun),Dinner (Mon-Sat)",37,154.0,32.3521,-86.2915,"(32.3521, -86.2915)",4,7,0,5,0,1,1,0,0,4
+116,D' Road Cafe,"American, Latin American",25,4.2,"8 AM to 2 PM (Mon),8 AM to 2 PM, 5:30 PM to 9 PM (Tue-Fri),Closed (Sat-Sun)",49,107.0,32.376969,-86.309963,"(32.376969, -86.309963)",16,3,0,7,1,4,0,4,1,5
+117,Green Papaya Lao-Thai Cuisine,"Thai, Vietnamese, Laotian",25,4.6,"11 AM to 2 PM, 5 PM to 8 PM (Mon-Sat),Closed (Sun)",35,138.0,32.391043,-86.257624,"(32.391043, -86.257624)",0,0,0,0,0,0,0,0,0,1
+118,Street Cafe,"Japanese, Teriyaki",40,4.2,"Lunch, Dinner (Sun, Tue, Wed, Thu, Fri, Sat),  (Mon)",33,153.0,32.344579,-86.222824,"(32.344579, -86.222824)",1,0,0,3,1,0,2,1,3,1
+119,Filet and Vine,"Diner, Southern",10,4.6,"(Sun),Lunch (Mon-Fri),Breakfast, Lunch (Sat)",35,132.0,32.358358,-86.299481,"(32.358358, -86.299481)",2,4,0,1,0,1,1,0,0,4
+120,Jim N Nick's Bar-B-Q,"BBQ, Southern",25,4.1,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",32,129.0,32.3826,-86.1872,"(32.3826, -86.1872)",0,0,0,0,0,0,0,0,0,4
+121,Kabuki,Japanese,25,4.1,"11 AM to 2:30 PM, 4:30 PM to 10 PM (Mon-Thu),11 AM to 2:30 PM, 4:30 PM to 11 PM (Fri),12 Noon to 11 PM (Sat),11:30 AM to 10 PM (Sun)",32,121.0,32.338479,-86.181252,"(32.338479, -86.181252)",1,0,0,0,0,0,2,0,2,4
+122,Midtown Pizza Kitchen,"American, Italian, Pizza",25,4.3,"11 AM to 9 PM (Mon-Sat), 4 PM to 9 PM (Sun)",36,112.0,32.36405,-86.27041,"(32.36405, -86.27041)",0,0,0,1,0,0,0,0,0,4
+123,Hamburger King,Burger,10,4.3,"(Sun, Sat), Breakfast, Lunch (Mon-Fri)",27,104.0,32.371133,-86.302022,"(32.371133, -86.302022)",9,4,0,1,1,6,0,0,0,5
+124,Chappys Deli,"Deli, Burger, Sandwich",15,4.3,"6 AM to 9 PM (Mon-Sat),Closed (Sun)",21,135.0,32.3549,-86.2436,"(32.3549, -86.2436)",0,1,0,0,2,0,1,2,1,4
+125,Five Guys Burgers and Fries,Fast Food,10,4.2,11 AM to 10 PM (Mon-Sun),20,139.0,32.360443,-86.165106,"(32.360443, -86.165106)",0,0,0,3,1,1,4,2,0,4
+126,Jubilee Seafood,Seafood,40,4.0,"5 PM to 10 PM (Tue-Sat), Mon & Sun Closed",29,114.0,32.35135,-86.29077,"(32.35135, -86.29077)",4,7,0,4,1,0,0,0,0,4
+127,Jim & Nick's BBQ of Prattville,"BBQ, Southern",25,3.9,"10:30 AM to 9 PM (Mon, Tue, Wed, Thu, Sun), 10:30 AM to 10:30 PM (Fri-Sat)",28,103.0,32.4596,-86.4056,"(32.4596, -86.4056)",1,0,0,2,0,2,5,3,0,4
+128,Martin's Restaurant,"American, Southern",10,4.1,"Lunch (Sun),Lunch, Dinner (Mon-Fri), (Sat)",27,101.0,32.3585,-86.2839,"(32.3585, -86.2839)",4,8,0,3,1,1,1,0,0,4
+129,La Jolla,"American, Southern, Steak",70,4.0,"4 PM to 10 PM (Mon-Sat),Closed (Sun)",28,99.0,32.3387512,-86.1723753,"(32.3387512, -86.1723753)",1,0,0,0,0,3,2,0,3,1
+130,Mrs B's Home Cooking,Southern,10,4.1,"Lunch (Sun),Breakfast, Lunch (Mon-Fri), (Sat)",32,74.0,32.3764,-86.3331,"(32.3764, -86.3331)",0,0,0,0,0,0,0,1,0,4
+131,Firebirds Wood Fired Grill,"Seafood, Steak, Bar Food",40,3.9,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",38,83.0,32.3592153804,-86.167352054,"(32.3592153804, -86.167352054)",0,0,0,3,1,1,4,2,0,4
+132,First Watch,"American, Coffee and Tea, Sandwich",25,4.2,7 AM to 2:30 PM (Mon-Sun),25,86.0,32.3573565,-86.2649955,"(32.3573565, -86.2649955)",0,0,0,1,1,1,2,0,0,4
+133,Tipping Point,"Bar Food, Sandwich, Vegetarian",10,4.2,"(Sun, Mon), Lunch, Dinner (Tue-Sat)",26,83.0,32.265915,-86.2260131,"(32.265915, -86.2260131)",0,0,0,0,0,0,0,0,0,4
+134,Tokyo Japanese Steak House,"Japanese, Sushi",10,4.4,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",22,91.0,32.4754941,-86.4288534,"(32.4754941, -86.4288534)",0,0,0,0,0,0,0,0,0,4
+135,Shashy's Bakery and Fine Foods,"Desserts, Bakery, American",15,4.3,"7 AM to 5 PM (Mon-Fri),7:30 AM to 2 PM (Sat),Closed (Sun)",18,86.0,32.362527,-86.283155,"(32.362527, -86.283155)",2,2,0,0,1,1,1,0,0,4
+136,Miyako Japanese Steak & Sushi,"Japanese, Steak",40,3.9,"Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",22,87.0,32.3389,-86.171,"(32.3389, -86.171)",1,0,0,0,0,3,1,0,3,4
+137,Satsuki,"Japanese, Korean, Sushi",25,4.1,"Lunch, Dinner (Sun, Tue, Wed, Thu, Fri, Sat),  (Mon)",23,82.0,32.382161,-86.183303,"(32.382161, -86.183303)",0,0,0,0,0,0,0,0,0,4
+138,City Grill,"American, Seafood, Steak",70,4.1,"(Sun, Mon), Dinner (Tue-Sat)",17,72.0,32.319198,-86.179075,"(32.319198, -86.179075)",0,0,0,1,0,0,0,0,1,1
+139,Baumhower's RSA,"American, Burger, Southern",25,4.0,"7 AM to 2 PM (Mon-Fri),Closed (Sat-Sun)",22,72.0,32.375305,-86.299491,"(32.375305, -86.299491)",9,1,0,1,1,6,0,1,1,5
+140,Mings Garden Chinese Restaurant,Chinese,25,4.2,,23,75.0,32.3558,-86.2172,"(32.3558, -86.2172)",1,0,1,2,0,1,0,3,4,4
+141,Corsinos Italian,"Italian, Pizza",25,4.1,"(Sun, Sat), Lunch, Dinner (Mon-Fri)",22,77.0,32.3642,-86.3085,"(32.3642, -86.3085)",0,0,0,0,1,0,0,0,0,4
+142,Capitol Oyster Bar,"Seafood, American",40,4.0,"11 AM to 8 PM (Wed-Thu), 11 AM to 9 PM (Fri), 12 Noon to 9 PM (Sat), 12 Noon to 8 PM (Sun), Mon & Tue Closed",21,71.0,32.3921991,-86.3158585,"(32.3921991, -86.3158585)",0,0,0,1,0,0,0,0,0,4
+143,Asia Bistro & Seafood,"Asian, Chinese, Thai",10,4.0,"Closed (Mon),11 AM to 9 PM (Tue, Wed, Thu, Sun), 11 AM to 10 PM (Fri-Sat)",16,63.0,32.3388,-86.181,"(32.3388, -86.181)",1,0,0,0,0,0,2,0,2,4
+144,Hibachi Sushi Supreme Buffet,"Asian, Chinese",10,3.8,"Lunch, Dinner, Late (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",27,58.0,32.378741,-86.209147,"(32.378741, -86.209147)",0,1,0,1,1,2,1,1,0,4
+145,Island Delight Caribbean Restaurant,Caribbean,10,4.3,"(Sun, Sat), Lunch (Mon-Fri)",22,67.0,32.3683,-86.3489,"(32.3683, -86.3489)",0,0,0,0,0,0,2,0,0,4
+146,Mexico Tipico Mexican,Mexican,10,4.0,"11 AM to 10 PM (Mon-Thu),11 AM to 10:30 PM (Fri-Sat),11 AM to 9:30 PM (Sun)",17,72.0,32.4604,-86.4196,"(32.4604, -86.4196)",0,0,0,2,1,0,2,0,0,4
+147,Jason's Deli,"Breakfast, Sandwich",10,3.9,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",16,70.0,32.3572,-86.2171,"(32.3572, -86.2171)",1,0,1,1,0,1,0,3,4,4
+148,Mr. Chen's Authentic Chinese Cooking & Oriental Market,"Asian, Chinese",10,4.0,"11 AM to 9 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 9:30 PM (Fri-Sat)",24,45.0,32.3819717,-86.2126221,"(32.3819717, -86.2126221)",0,3,0,1,1,2,1,1,0,4
+149,Charles Anthony's Restaurant,"Seafood, Steak",40,3.8,"5 PM to 9:30 PM (Mon-Thu),5 PM to 10 PM (Fri-Sat),Closed (Sun)",19,72.0,32.3659,-86.1379,"(32.3659, -86.1379)",1,0,0,0,0,0,0,2,1,4
+150,Mellow Mushroom,"Pizza, Sandwich, Vegetarian",25,3.8,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",14,76.0,32.33876,-86.17854,"(32.33876, -86.17854)",1,0,0,0,0,1,2,0,3,4
+151,Scott Street Deli,Sandwich,10,4.2,"9 AM to 3 PM (Mon-Fri),Closed (Sat-Sun)",19,65.0,32.3733,-86.3032,"(32.3733, -86.3032)",13,3,0,3,1,8,0,2,1,5
+152,Osaka Sushi Bar & Japanese Cuisine,"Japanese, Sushi",25,4.1,"Closed (Mon),11 AM to 3 PM, 4:30 PM to 9 PM (Tue, Wed, Thu, Sun), 11 AM to 3 PM, 4:30 PM to 9:30 PM (Fri-Sat)",22,61.0,32.461798,-86.425073,"(32.461798, -86.425073)",0,0,0,2,0,0,1,0,0,4
+153,Our Place Cafe,"American, Seafood",40,4.0,"Closed (Mon, Sun), 4:30 PM to 8:30 PM (Tue-Sat)",21,67.0,32.5445,-86.194,"(32.5445, -86.194)",0,0,0,0,0,0,0,0,0,4
+154,Leks Taste of Thailand,Thai,25,4.0,"(Sun),Lunch, Dinner (Mon-Sat)",15,66.0,32.3821,-86.2142,"(32.3821, -86.2142)",0,3,0,1,0,2,1,1,0,4
+155,Irish Bred Pub & Restaurant,"Burger, Bar Food, Sandwich",25,3.6,"11 AM to 9 PM (Mon-Thu),11 AM to 10 PM (Fri-Sat),Closed (Sun)",29,55.0,32.37711,-86.307597,"(32.37711, -86.307597)",16,3,0,7,1,6,0,4,1,5
+156,Catfish House,Seafood,25,4.0,"Closed (Mon, Sun), 4:30 PM to 9 PM (Tue-Sat)",21,53.0,32.4563,-86.371,"(32.4563, -86.371)",0,0,0,0,0,0,0,0,0,4
+157,Young Barn Pub & Oyster Bar,"Burger, Bar Food, Seafood",10,3.7,"Breakfast, Lunch, Dinner, Late (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",19,57.0,32.3490095,-86.2236587,"(32.3490095, -86.2236587)",2,0,0,3,0,0,2,1,4,4
+158,Tipico de Mexico,Mexican,10,4.0,,10,63.0,32.333513,-86.180418,"(32.333513, -86.180418)",1,0,0,0,0,0,2,0,2,4
+159,Cafe Louisa,"Coffee and Tea, Desserts",10,4.0,"Breakfast, Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",12,62.0,32.3519,-86.2915,"(32.3519, -86.2915)",4,7,0,5,0,0,0,0,0,4
+160,Ban Thai Sushi,Thai,25,3.8,"11 AM to 2 PM, 4 PM to 9 PM (Tue-Sat), 11 AM to 2 PM, 4 PM to 8 PM (Sun), Mon Closed",23,43.0,32.517557,-86.378031,"(32.517557, -86.378031)",0,0,0,0,1,0,0,0,0,4
+161,Las Casitas Mexican Restaurant,Mexican,10,4.0,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",19,54.0,32.458571,-86.399909,"(32.458571, -86.399909)",1,0,0,1,0,2,4,4,0,4
+162,Plantation House & Gardens,"German, Southern",25,3.5,"Closed (Mon, Tue, Sat), 11 AM to 2 PM, 5 PM to 8 PM (Wed-Fri),11 AM to 2 PM (Sun)",27,44.0,32.479612,-86.36986,"(32.479612, -86.36986)",0,0,0,0,1,0,0,0,0,4
+163,East China,Chinese,25,4.0,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",14,57.0,32.3389,-86.1716,"(32.3389, -86.1716)",1,0,0,0,0,3,1,0,3,4
+164,Ixtapa Mexican Restaurant,Mexican,0,3.7,,15,54.0,32.382,-86.1944,"(32.382, -86.1944)",0,0,0,1,1,0,0,0,0,4
+165,Red Robin Gourmet Burgers,"American, Burger, Sandwich",25,3.6,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",14,44.0,32.360069,-86.168977,"(32.360069, -86.168977)",0,1,0,3,1,1,4,1,0,4
+166,Taziki's Mediterranean Cafe,"Greek, Mediterranean",25,3.7,"11 AM to 9 PM (Mon-Sat), 11 AM to 8 PM (Sun)",15,54.0,32.3590994,-86.1622344,"(32.3590994, -86.1622344)",0,0,0,3,1,1,4,2,1,4
+167,Davis Cafe,American,10,4.1,"7 AM to 3:30 PM (Mon-Fri),Closed (Sat-Sun)",13,43.0,32.3836,-86.3026,"(32.3836, -86.3026)",11,0,0,6,1,5,0,2,1,5
+168,Taste of India,"Asian, Indian, Vegetarian",25,3.9,"Closed (Mon),11 AM to 3 PM, 5 PM to 10 PM (Tue-Sun)",19,48.0,32.3591729,-86.1446947,"(32.3591729, -86.1446947)",0,0,0,0,0,0,1,1,0,4
+169,Martha's Place,"American, Southern",30,4.0,"11 AM to 8 PM (Mon-Sat),10:30 AM to 3 PM (Sun)",21,42.0,32.3807142,-86.159967,"(32.3807142, -86.159967)",0,0,0,0,0,0,0,0,0,4
+170,Sams Bar B Que,BBQ,0,3.9,"(Sun),Lunch (Mon-Thu),Lunch, Dinner (Fri-Sat)",14,50.0,32.3853,-86.2561,"(32.3853, -86.2561)",0,0,0,1,0,0,0,1,0,4
+171,LongHorn Steakhouse,"American, Steak",25,3.9,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",14,49.0,32.45982,-86.41099,"(32.45982, -86.41099)",0,0,0,1,0,1,3,3,0,4
+172,Fat Boys Bar B Que Ranch,BBQ,10,3.9,"(Sun),Lunch (Mon-Wed),Lunch, Dinner (Thu-Sat)",11,52.0,32.4579,-86.4707,"(32.4579, -86.4707)",0,0,0,0,4,0,0,0,0,4
+173,Mellow Mushroom,"Pizza, Sandwich, Vegetarian",25,3.8,"11 AM to 10 PM (Mon, Tue, Wed, Sun), 11 AM to 11 PM (Thu, Sat), 11 AM to 12 Midnight (Fri)",8,53.0,32.45956,-86.4138,"(32.45956, -86.4138)",0,0,0,2,1,0,3,1,0,4
+174,La Coronilla,"Mexican, Spanish",10,3.9,"9 AM to 9 PM (Mon, Wed, Thu, Fri, Sat, Sun), Closed (Tue)",22,36.0,32.4047628,-86.2147919,"(32.4047628, -86.2147919)",0,0,0,0,0,0,1,0,0,4
+175,Doughnut Heaven,Breakfast,10,4.1,,12,48.0,32.4606,-86.4523,"(32.4606, -86.4523)",0,0,0,0,0,0,0,0,0,4
+176,Olive Garden Italian Restaurant,Italian,25,3.6,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",12,53.0,32.34672,-86.22256,"(32.34672, -86.22256)",2,0,1,3,0,0,2,1,4,4
+177,Noodles Cafe,Asian,10,3.9,,11,41.0,32.3387659,-86.1724832,"(32.3387659, -86.1724832)",1,0,0,0,0,3,2,0,3,4
+178,Zoes Kitchen,Mediterranean,10,3.9,11 AM to 9:30 PM,11,39.0,32.3564198662,-86.2653211458,"(32.3564198662, -86.2653211458)",0,0,0,1,1,1,2,0,0,4
+179,Zoes Kitchen,Mediterranean,10,3.8,10 AM to 9:30 PM,11,48.0,32.3593808,-86.1657429,"(32.3593808, -86.1657429)",0,0,0,3,1,1,4,2,1,4
+180,Chin Chin Chinese Restaurant,"Chinese, Japanese, Thai",25,3.8,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 10:30 PM (Fri-Sat)",17,41.0,32.332552,-86.1800109,"(32.332552, -86.1800109)",1,0,0,0,0,0,2,0,2,4
+181,Chappy's Deli,"Deli, Burger, Sandwich",10,3.9,"6 AM to 9 PM (Mon-Sat),Closed (Sun)",10,49.0,32.3389,-86.1721,"(32.3389, -86.1721)",1,0,0,0,0,3,1,0,3,4
+182,No Way Jose,Mexican,10,3.8,,11,44.0,32.359147,-86.146228,"(32.359147, -86.146228)",0,0,0,0,0,0,1,1,0,4
+183,Joe Mama's American Grill,"American, Burger",10,3.9,,12,42.0,32.476461,-86.456564,"(32.476461, -86.456564)",0,0,0,0,0,0,0,0,0,4
+184,Eastside Grille LLC,American,25,3.7,"10:30 AM to 9 PM (Mon-Thu),10:30 AM to 10:30 PM (Fri-Sat),10 AM to 2 PM (Sun)",14,40.0,32.3826,-86.1818,"(32.3826, -86.1818)",0,0,0,0,0,0,1,0,0,4
+185,Top China,Chinese,0,4.0,"10:30 AM to 10:30 PM (Mon-Sat),11 AM to 10 PM (Sun)",12,38.0,32.3622,-86.1381,"(32.3622, -86.1381)",1,0,0,0,0,0,0,2,0,4
+186,Ixtapa Bar & Grill,"Mexican, Bar Food",30,3.6,,13,41.0,32.360484,-86.166396,"(32.360484, -86.166396)",0,0,0,3,1,1,4,2,0,4
+187,Panera Bread,Sandwich,10,3.9,"6 AM to 9:30 PM (Mon-Sat), 6:30 AM to 9 PM (Sun)",6,49.0,32.3593384,-86.166083,"(32.3593384, -86.166083)",0,0,0,3,1,1,4,2,1,4
+188,Momma Goldberg's Deli,"American, Sandwich, Vegetarian",10,3.9,,9,45.0,32.338573,-86.176847,"(32.338573, -86.176847)",1,0,0,0,0,1,2,0,3,4
+189,El Patron Restaurant,Mexican,10,3.8,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",14,31.0,32.4600872,-86.4145141,"(32.4600872, -86.4145141)",0,0,0,2,1,0,3,1,0,4
+190,Cucos Mexican Cafe,"Mexican, Tex-Mex",10,3.6,"11 AM to 9:30 PM (Mon-Thu),11 AM to 10:30 PM (Fri-Sat),11 AM to 9 PM (Sun)",9,42.0,32.35412,-86.125364,"(32.35412, -86.125364)",1,0,0,0,0,0,0,0,0,4
+191,Gail's Down The Street Cafe,"American, Southern",10,3.3,"Lunch (Sun, Mon, Tue, Wed, Thu, Fri),  (Sat)",15,36.0,32.36314,-86.266244,"(32.36314, -86.266244)",0,0,0,1,0,1,1,0,0,4
+192,Shrimp Basket,Seafood,40,2.9,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",18,30.0,32.338249,-86.1784629,"(32.338249, -86.1784629)",1,0,0,0,0,1,2,0,3,4
+193,Farmers Market Cafe,Southern,10,3.8,"(Sun, Sat), Breakfast, Lunch (Mon-Fri)",11,37.0,32.38119,-86.30525,"(32.38119, -86.30525)",16,3,0,7,1,7,0,4,1,5
+194,San Marcos,Mexican,10,3.8,"Lunch, Dinner (Sun, Mon, Tue, Wed, Thu, Fri, Sat)",10,38.0,32.38566,-86.19926,"(32.38566, -86.19926)",0,0,0,1,1,1,1,0,0,4
+195,Liger's Bakery,Sandwich,10,3.7,,14,35.0,32.33763,-86.25951,"(32.33763, -86.25951)",0,0,0,0,0,0,0,0,0,4
+196,Marco's Pizza,Pizza,10,3.9,,9,39.0,32.481548,-86.420071,"(32.481548, -86.420071)",0,0,0,0,0,0,0,0,0,4
+197,Ala Thai East,"Thai, Vegetarian",10,3.7,"11 AM to 9 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 9:30 PM (Fri-Sat)",10,37.0,32.3807,-86.16831,"(32.3807, -86.16831)",0,0,0,0,0,0,1,0,0,4
+198,Los Cabos Bar and Grill,"Mexican, Seafood, Tex-Mex",25,3.7,"Lunch, Dinner (Sun),Lunch, Dinner, Late (Mon-Sat)",14,31.0,32.355513,-86.217347,"(32.355513, -86.217347)",1,0,1,2,0,1,0,3,4,4
+199,Steak 'n Shake,Fast Food,10,3.6,"7 AM to 11 PM (Mon, Tue, Wed, Thu, Sun), 7 AM to 12 Midnight (Fri-Sat)",10,35.0,32.4606502577,-86.4000832289,"(32.4606502577, -86.4000832289)",1,0,0,1,0,2,4,4,0,4
+200,Bottega Restaurant and Cafe,"Italian, Cafe, Pizza, Mediterranean",40,4.9,"11 AM to 10 PM (Tue-Sat), Mon & Sun Closed",98,814.0,33.502341,-86.789783,"(33.502341, -86.789783)",2,1,0,7,3,2,1,2,4,1
+201,GianMarco's,"Italian, Mediterranean, Southern",40,4.9,"5 PM to 10 PM (Mon, Tue, Sat), 11 AM to 2 PM, 5 PM to 10 PM (Wed-Fri),Closed (Sun)",161,826.0,33.463387,-86.812239,"(33.463387, -86.812239)",0,0,0,0,1,0,2,0,1,1
+202,Surin West,"Asian, Sushi, Thai",25,4.6,"11 AM to 9:30 PM (Mon-Thu), 11 AM to 10:30 PM (Fri), 11:30 AM to 10:30 PM (Sat), 11:30 AM to 9:30 PM (Sun)",137,840.0,33.50076,-86.79554,"(33.50076, -86.79554)",3,7,0,7,3,2,1,2,5,3
+203,SAW's BBQ,"BBQ, Sandwich",25,4.7,"11 AM to 8 PM (Mon-Sat), Sun Closed",175,740.0,33.4738,-86.80829,"(33.4738, -86.80829)",0,0,0,1,0,0,0,0,1,1
+204,"Joe's Italian Pizza, Pasta & Caffe","Desserts, Italian, Pizza",25,4.7,10:30 AM to 9 PM (Mon-Sun),314,739.0,33.259583,-86.796361,"(33.259583, -86.796361)",0,0,0,0,0,0,0,0,0,1
+205,Highlands Bar & Grill,"European, Seafood, Southern",70,4.6,"Closed (Mon, Sun), 4 PM to 10 PM (Tue-Fri),5 PM to 10 PM (Sat)",75,711.0,33.50054,-86.795959,"(33.50054, -86.795959)",3,9,0,7,3,2,1,2,5,3
+206,Chez Fon Fon,"Desserts, French, Healthy Food",40,4.8,"Closed (Mon, Sun), 11 AM to 10 PM (Tue-Thu),11 AM to 10:30 PM (Fri),5 PM to 10:30 PM (Sat)",105,673.0,33.500539,-86.795982,"(33.500539, -86.795982)",3,10,0,7,3,2,1,2,5,3
+207,Rojo,"American, Latin American",25,4.5,"Closed (Mon),11 AM to 12 Midnight (Tue-Sun)",111,677.0,33.50647,-86.78098,"(33.50647, -86.78098)",2,0,0,3,3,0,2,0,2,1
+208,The Fish Market,"Mediterranean, Seafood, Southern",25,4.4,"10 AM to 9 PM (Mon-Thu),10 AM to 10 PM (Fri-Sat),11 AM to 5 PM (Sun)",113,610.0,33.508044,-86.797841,"(33.508044, -86.797841)",4,5,0,12,3,3,2,5,3,3
+209,Mugshots Grill and Bar,"Burger, Sandwich, Healthy Food",10,4.4,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),10:30 AM to 9 PM (Sun)",113,435.0,33.44926,-86.78984,"(33.44926, -86.78984)",1,0,0,0,0,0,1,0,0,1
+210,SAW’s Soul Kitchen,"BBQ, Seafood, Southern",30,4.6,"11 AM to 8 PM (Mon-Sat), 11 AM to 4 PM (Sun)",129,572.0,33.52453,-86.77433,"(33.52453, -86.77433)",2,0,0,2,1,0,0,0,0,1
+211,El Barrio,Mexican,40,4.7,"Closed (Mon, Sun), 11 AM to 3 PM, 5 PM to 10 PM (Tue-Fri),10:30 AM to 2 PM, 5 PM to 10 PM (Sat)",151,595.0,33.5168987,-86.8030771,"(33.5168987, -86.8030771)",12,1,0,13,6,5,1,8,3,5
+212,Slice Stone Pizza & Brew,"Italian, Pizza, Healthy Food",25,4.5,"11 AM to 10 PM (Mon-Wed),11 AM to 12 Midnight (Thu-Sat),12 Noon to 10 PM (Sun)",132,597.0,33.511418,-86.786932,"(33.511418, -86.786932)",5,0,0,6,2,1,5,0,2,1
+213,Hot and Hot Fish Club,"International, Seafood, Southern",70,4.4,"Closed (Mon, Sun), 5:30 PM to 10:30 PM (Tue-Sat)",109,589.0,33.501388,-86.791006,"(33.501388, -86.791006)",2,1,0,6,2,2,1,2,4,1
+214,Bright Star,"Greek, Seafood, Southern",40,4.5,"11 AM to 9 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 10 PM (Fri-Sat)",223,570.0,33.402567,-86.953775,"(33.402567, -86.953775)",0,0,0,0,0,1,0,0,0,1
+215,Little Donkey,"Mexican, Vegetarian",25,3.6,"11 AM to 9:30 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 10:30 PM (Fri-Sat)",252,584.0,33.4796575,-86.7951452,"(33.4796575, -86.7951452)",0,0,0,0,2,1,3,1,4,1
+216,Chuy's,"Mexican, Tex-Mex",25,4.2,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",168,583.0,33.44776,-86.73306,"(33.44776, -86.73306)",0,0,1,0,0,0,4,0,0,1
+217,BRIO Tuscan Grille,Italian,35,4.4,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",84,536.0,33.469522,-86.772817,"(33.469522, -86.772817)",0,0,0,0,1,0,4,0,0,1
+218,Mr. Chen's Authentic Chinese Cooking,"Chinese, Dim Sum",10,4.5,11 AM to 9 PM (Mon-Sun),130,487.0,33.402091,-86.807179,"(33.402091, -86.807179)",0,0,0,0,0,1,0,0,0,1
+219,Cocina Superior,"Mexican, Southwestern, Tex-Mex",40,4.3,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri),9:30 AM to 11 PM (Sat),9:30 AM to 10 PM (Sun)",105,547.0,33.469438,-86.772955,"(33.469438, -86.772955)",0,0,0,0,1,0,4,0,0,1
+220,The Cheesecake Factory,"Desserts, International",40,4.2,"11 AM to 11 PM (Mon-Thu),11 AM to 12 Midnight (Fri),11 AM to 12:30 AM (Sat),10 AM to 11 PM, 12 Midnight to 12:30 AM (Sun)",71,451.0,33.447868,-86.73109,"(33.447868, -86.73109)",0,0,1,0,0,0,4,1,0,1
+221,P.F. Chang's,"Chinese, Japanese, Vegetarian",25,4.2,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",78,541.0,33.4465919177,-86.7312562466,"(33.4465919177, -86.7312562466)",0,0,1,0,0,0,4,1,0,1
+222,Saigon Noodle House,"Seafood, Vietnamese",10,4.6,11 AM to 9 PM (Mon-Sun),112,466.0,33.426994,-86.712513,"(33.426994, -86.712513)",0,0,0,0,0,2,0,0,0,1
+223,Nabeel's Cafe & Market,"Greek, Italian, Mediterranean",25,4.4,"11 AM to 8 PM (Mon-Wed),11 AM to 9:30 PM (Thu-Sat),Closed (Sun)",86,490.0,33.475491,-86.796656,"(33.475491, -86.796656)",0,0,0,0,2,1,2,1,2,1
+224,Iguana Grill,Mexican,25,4.5,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",97,478.0,33.38186,-86.796094,"(33.38186, -86.796094)",1,0,0,0,0,0,0,0,0,1
+225,Bettola,"Italian, Pizza",40,4.4,"11 AM to 2 PM, 5:30 PM to 9 PM (Mon-Thu), 11 AM to 2 PM, 5:30 PM to 10 PM (Fri), 5:30 PM to 10 PM (Sat), Sun Closed",100,404.0,33.51669,-86.79087,"(33.51669, -86.79087)",4,0,1,8,1,1,4,1,1,1
+226,Firebirds Wood Fired Grill,"Seafood, Steak, Bar Food",40,4.3,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",90,455.0,33.3746498348,-86.816131718,"(33.3746498348, -86.816131718)",1,0,0,0,0,1,0,1,0,1
+227,Al's Deli & Grill,"Fast Food, Mediterranean, Sandwich",10,4.5,24 Hours (Mon-Sun),69,479.0,33.499405,-86.802302,"(33.499405, -86.802302)",1,23,0,5,2,1,1,3,3,3
+228,Urban Cookhouse,American,10,4.5,"10 AM to 9 PM (Mon-Sat), 10 AM to 8 PM (Sun)",90,458.0,33.479548,-86.791806,"(33.479548, -86.791806)",0,0,0,0,2,1,3,1,3,1
+229,Niki's West,"Southern, Steak",25,4.4,"6 AM to 9:30 PM (Mon-Sat),Closed (Sun)",82,445.0,33.535862,-86.840066,"(33.535862, -86.840066)",0,0,0,0,0,0,0,0,0,1
+230,Ocean,"American, Seafood, Sushi",70,4.4,"Closed (Mon, Sun), 5:30 PM to 10:30 PM (Tue-Sat)",66,431.0,33.499282,-86.795852,"(33.499282, -86.795852)",2,7,0,6,4,1,1,2,4,3
+231,Trattoria Centrale,"Italian, Pizza",25,4.6,"7 AM to 10 AM, 11 AM to 3 PM (Mon-Fri),Closed (Sat),11 AM to 2 PM (Sun)",87,411.0,33.5154786,-86.8062851,"(33.5154786, -86.8062851)",10,1,0,12,6,6,1,8,4,5
+232,J. Alexander's - Redlands Grill,"American, Seafood, Steak",70,4.3,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",84,432.0,33.37652,-86.81013,"(33.37652, -86.81013)",2,0,1,0,0,1,0,1,0,1
+233,Davenport's Pizza Palace,Pizza,30,4.3,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),4:30 PM to 10 PM (Sun)",86,444.0,33.482381,-86.772931,"(33.482381, -86.772931)",0,0,0,1,2,0,0,0,0,1
+234,Baha Burger,"Burger, Caribbean, Healthy Food",10,4.4,"11 AM to 10 PM (Mon-Sat),11 AM to 9 PM (Sun)",105,334.0,33.401004,-86.806602,"(33.401004, -86.806602)",0,0,0,0,0,1,0,0,0,1
+235,Urban Standard,"Breakfast, Coffee and Tea, Sandwich",10,4.3,"7 AM to 8 PM (Mon-Fri),8 AM to 8 PM (Sat),Closed (Sun)",83,382.0,33.5174854,-86.8018876,"(33.5174854, -86.8018876)",11,1,1,12,4,5,2,7,3,5
+236,Original Pancake House,Breakfast,25,4.4,7 AM to 2 PM (Mon-Sun),52,380.0,33.500052,-86.797143,"(33.500052, -86.797143)",2,15,0,6,3,1,1,2,4,3
+237,Another Broken Egg Cafe,"Breakfast, Healthy Food",25,4.2,"6:30 AM to 2 PM (Mon-Fri),7 AM to 2 PM (Sat-Sun)",78,371.0,33.484084,-86.773366,"(33.484084, -86.773366)",0,0,0,1,1,0,0,0,0,1
+238,Dreamland BBQ Birmingham,BBQ,10,4.1,"10 AM to 10 PM (Mon-Thu), 10 AM to 11 PM (Fri-Sat), 11 AM to 9 PM (Sun)",72,382.0,33.49417,-86.80298,"(33.49417, -86.80298)",1,22,0,5,2,0,0,0,2,3
+239,La Paz Restaurant & Catering,"Mexican, Tex-Mex",25,4.2,"11 AM to 9 PM (Mon, Tue, Sun), 11 AM to 10 PM (Wed-Thu),11 AM to 11 PM (Fri-Sat)",60,382.0,33.503195,-86.757086,"(33.503195, -86.757086)",0,0,0,0,0,0,0,0,0,1
+240,Jinsei Sushi,"Diner, Japanese, Sushi",40,4.3,5 PM to 10 PM (Mon-Sun),69,357.0,33.479771,-86.791015,"(33.479771, -86.791015)",0,0,0,0,3,1,3,1,4,1
+241,Cafe Dupont,"French, Southern",70,4.4,"Closed (Mon, Sun), 11 AM to 2 PM, 5 PM to 10 PM (Tue-Thu),11 AM to 2 PM, 5 PM to 10:30 PM (Fri),5:30 PM to 10:30 PM (Sat)",75,338.0,33.514732,-86.80561,"(33.514732, -86.80561)",13,2,0,12,6,6,1,8,4,5
+242,Post Office Pies,"American, Pizza",25,4.3,"11 AM to 9 PM (Mon-Wed, Sun), 11 AM to 10 PM (Thu), 11 AM to 12 Midnight (Fri-Sat)",116,336.0,33.524458,-86.7738509,"(33.524458, -86.7738509)",2,0,0,2,1,0,0,0,0,1
+243,Jim 'n Nick's,"American, BBQ",25,4.2,"11 AM to 9 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 10 PM (Fri-Sat)",66,361.0,33.374771,-86.802437,"(33.374771, -86.802437)",1,0,1,0,0,1,0,1,0,1
+244,Taziki's Mediterranean Cafe,"American, Greek, Mediterranean",10,4.4,"11 AM to 9 PM (Mon-Sat), 11 AM to 8 PM (Sun)",35,383.0,33.4804739,-86.7732619,"(33.4804739, -86.7732619)",0,0,0,1,1,0,0,0,0,1
+245,Cajun Steamer Bar & Grill,"Seafood, Southern, Cajun",25,3.9,"11 AM to 10 PM (Mon-Thu),11 AM to 11 PM (Fri-Sat),11 AM to 9 PM (Sun)",74,288.0,33.374327,-86.814908,"(33.374327, -86.814908)",1,0,1,0,0,1,0,1,0,1
+246,Silvercoin Indian Grill,Indian,25,4.3,"Closed (Mon),11 AM to 2 PM, 4:30 PM to 9:30 PM (Tue-Thu),11 AM to 2 PM, 4:30 PM to 10 PM (Fri),11 AM to 10 PM (Sat),11 AM to 9:30 PM (Sun)",79,339.0,33.3938481,-86.798356,"(33.3938481, -86.798356)",0,0,0,0,0,0,0,0,0,1
+247,Steel City Pops,Desserts,10,4.5,"12 Noon to 9 PM (Mon, Tue, Wed, Thu, Sun), 12 Noon to 10 PM (Fri-Sat)",71,357.0,33.4797317,-86.7951068,"(33.4797317, -86.7951068)",0,0,0,0,2,1,3,1,4,1
+248,Chez Lulu,"Italian, Pizza, Sandwich",25,4.3,"Closed (Mon),11 AM to 3 PM, 5:30 PM to 9:30 PM (Tue-Thu),11 AM to 10:30 PM (Fri-Sat),10 AM to 9:30 PM (Sun)",55,335.0,33.495562,-86.781581,"(33.495562, -86.781581)",0,0,0,0,3,0,0,0,0,1
+249,Pho Que Huong Vietnamese,"Asian, Vietnamese",30,4.4,"11 AM to 3 PM, 5 PM to 9 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 3 PM, 5 PM to 9:30 PM (Fri-Sat)",63,316.0,33.464011,-86.820528,"(33.464011, -86.820528)",0,0,0,0,1,0,2,1,1,1
+250,FIVE - Birmingham,"American, Breakfast",40,4.2,"4 PM to 10 PM (Mon-Wed),4 PM to 12 Midnight (Thu),11 AM to 12 Midnight (Fri-Sat),10 AM to 10 PM (Sun)",81,293.0,33.51044,-86.786649,"(33.51044, -86.786649)",4,0,0,6,2,1,5,0,2,1
+251,SAW’s Juke Joint,"BBQ, Seafood, Southern",10,4.3,"11 AM to 9 PM (Mon-Sat),Closed (Sun)",75,298.0,33.51502,-86.73681,"(33.51502, -86.73681)",0,0,0,0,0,0,2,0,1,1
+252,Stix,"Chinese, Japanese, Sushi",40,4.0,"11 AM to 2 PM, 4:30 PM to 10 PM (Mon-Thu),11 AM to 2 PM, 4:30 PM to 11 PM (Fri),11:30 AM to 11 PM (Sat),11:30 AM to 9:30 PM (Sun)",69,293.0,33.375839,-86.809014,"(33.375839, -86.809014)",2,0,1,0,0,1,0,1,0,1
+253,Over Easy,"Breakfast, Sandwich, Healthy Food",10,4.0,"Closed (Mon),6 AM to 2 PM (Tue-Fri),7 AM to 2 PM, 12 Midnight to 2:30 AM (Sat),7 AM to 2 PM (Sun)",125,288.0,33.482641,-86.777795,"(33.482641, -86.777795)",0,0,0,1,2,0,1,0,0,1
+254,Superior Grill,Mexican,25,4.0,"11 AM to 10 PM (Mon-Wed),11 AM to 11 PM (Thu-Sun)",69,287.0,33.423061,-86.700188,"(33.423061, -86.700188)",0,0,0,0,0,1,0,1,0,1
+255,Super Oriental Market and Red Pearl Restaurant,Asian,10,4.3,"Closed (Mon),10 AM to 9:30 PM (Tue-Sun)",57,205.0,33.466934,-86.834409,"(33.466934, -86.834409)",0,0,0,0,0,0,1,1,1,1
+256,Chuck's Fish,"Seafood, Steak, Sushi",70,4.1,"5 PM to 10 PM (Mon-Thu), 5 PM to 11 PM (Fri-Sat), 10 AM to 10 PM (Sun)",81,224.0,33.4152604,-86.6672041,"(33.4152604, -86.6672041)",0,0,1,0,0,1,0,0,0,1
+257,Dreamcakes Bakery,Vegetarian,10,4.1,"10 AM to 6 PM (Mon-Fri),11 AM to 5 PM (Sat),Closed (Sun)",113,273.0,33.473763,-86.808821,"(33.473763, -86.808821)",0,0,0,1,0,0,0,0,1,1
+258,Olive Branch,"American, Greek, Mediterranean",25,4.3,"11 AM to 2:30 PM, 5 PM to 9 PM (Mon-Sat), Sun Closed",65,265.0,33.45419,-86.72978,"(33.45419, -86.72978)",0,0,1,0,0,0,4,0,0,1
+259,Taj India,"Indian, Vegetarian",25,4.1,"11 AM to 2 PM, 5 PM to 10 PM (Mon-Fri),11:30 AM to 2:30 PM, 5 PM to 10 PM (Sat),11:30 AM to 2:30 PM, 5 PM to 9 PM (Sun)",68,272.0,33.501389,-86.790231,"(33.501389, -86.790231)",2,1,0,6,2,1,1,2,4,1
+260,Miss Myra's Pit Bar B Q,"BBQ, Desserts",25,4.3,"8 AM to 8 PM (Mon-Thu),8 AM to 9 PM (Fri-Sat),Closed (Sun)",72,268.0,33.454178,-86.726209,"(33.454178, -86.726209)",0,0,1,0,0,0,4,0,0,1
+261,Surin 280,"Asian, Sushi, Thai",25,4.0,"11 AM to 2 PM, 4:45 PM to 9 PM (Mon-Thu),11 AM to 2 PM, 4:45 PM to 10 PM (Fri-Sat),11 AM to 2:30 PM, 4:45 PM to 9 PM (Sun)",68,253.0,33.435585,-86.723424,"(33.435585, -86.723424)",0,0,0,0,0,1,0,4,1,1
+262,Dyron's Lowcountry,"American, Seafood, Southern",40,4.2,"Closed (Mon),5:30 PM to 9:30 PM (Tue-Sat),11 AM to 2 PM (Sun)",61,244.0,33.501149,-86.754899,"(33.501149, -86.754899)",0,0,0,0,0,0,0,0,0,1
+263,Makarios Kabobs & Grill,"American, Mediterranean, Middle Eastern",10,4.3,"10 AM to 11 PM (Mon-Thu),10 AM to 12 Midnight (Fri),10 AM to 1 AM (Sat),10 AM to 11 PM, 12 Midnight to 1 AM (Sun)",64,255.0,33.502503,-86.797761,"(33.502503, -86.797761)",5,14,0,7,2,2,2,4,4,3
+264,Klingler's European Bakery,"Breakfast, German",25,4.0,"7 AM to 4 PM (Mon-Fri),8 AM to 4 PM (Sat),8 AM to 3 PM (Sun)",37,161.0,33.448568,-86.78949,"(33.448568, -86.78949)",1,0,0,0,0,0,1,0,0,4
+265,Brick & Tin,"Sandwich, Healthy Food",10,4.3,"10:30 AM to 3 PM (Mon-Thu),10:30 AM to 3 PM, 5 PM to 9 PM (Fri),Closed (Sat-Sun)",48,236.0,33.515807,-86.806918,"(33.515807, -86.806918)",10,1,0,12,6,6,1,8,4,5
+266,Chen Express,Chinese,25,4.3,"11 AM to 9:30 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 10 PM (Fri-Sat)",36,195.0,33.5031984,-86.7572495,"(33.5031984, -86.7572495)",0,0,0,0,0,0,0,0,0,1
+267,Mudtown,"American, Breakfast, Cajun",25,4.1,"11 AM to 9:30 PM (Mon-Thu),11 AM to 10:30 PM (Fri-Sat),11 AM to 8:30 PM (Sun)",62,233.0,33.460413,-86.732969,"(33.460413, -86.732969)",0,0,1,0,0,0,1,0,1,1
+268,Bonefish Grill,Seafood,40,4.2,"4 PM to 10 PM (Mon-Thu), 11 AM to 11 PM (Fri-Sat), 10 AM to 9 PM (Sun)",53,236.0,33.37847,-86.81111,"(33.37847, -86.81111)",1,0,1,0,0,1,0,1,0,1
+269,Todd English P.U.B.,"American, Bar Food",40,3.6,"6:30 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 6:30 AM to 12 Midnight (Fri-Sat)",112,222.0,33.522703,-86.809383,"(33.522703, -86.809383)",14,1,1,8,4,7,0,6,2,5
+270,Crazy Cajuns' Boiling Pot,"American, Seafood, Cajun",25,4.2,"11 AM to 9 PM (Mon-Thu),11 AM to 10 PM (Fri-Sat),Closed (Sun)",82,233.0,33.420057,-86.696421,"(33.420057, -86.696421)",0,0,0,0,0,0,0,1,0,1
+271,Jubilee Joe's Cajun Seafood Restaurant,"Seafood, Cajun",25,3.9,"Closed (Mon),11 AM to 9 PM (Tue-Thu),11 AM to 10 PM (Fri-Sat),11 AM to 8 PM (Sun)",78,196.0,33.351555,-86.864997,"(33.351555, -86.864997)",0,0,0,0,0,0,0,0,0,1
+272,Big Bad Breakfast,"American, Coffee and Tea, Diner",10,3.9,7 AM to 2:30 PM (Mon-Sun),86,212.0,33.4189679,-86.671473,"(33.4189679, -86.671473)",0,0,0,0,0,0,0,0,0,1
+273,Giuseppe's Cafe,"Italian, Pizza, Sandwich, Cafe",25,4.3,"11 AM to 9:30 PM (Mon),11 AM to 10 PM (Tue-Sat),Closed (Sun)",49,240.0,33.495194,-86.814348,"(33.495194, -86.814348)",1,17,0,0,0,0,0,0,1,3
+274,Sitar Indian Restaurant,"Asian, Indian",25,4.2,"11 AM to 2:30 PM, 5 PM to 9:30 PM (Mon-Sun)",60,232.0,33.505745,-86.799586,"(33.505745, -86.799586)",4,13,0,8,4,3,2,5,3,3
+275,Yogurt Mountain,Desserts,10,4.1,"11:30 AM to 11 PM (Mon, Tue, Wed, Thu, Sun), 11:30 AM to 12 Midnight (Fri-Sat)",44,246.0,33.461276,-86.753785,"(33.461276, -86.753785)",0,0,0,0,0,0,1,0,0,4
+276,Baumhower's Restaurant,"Burger, Bar Food, Sandwich",25,3.9,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",101,219.0,33.373709,-86.815875,"(33.373709, -86.815875)",1,0,0,0,0,1,0,0,0,1
+277,Village Tavern,"Bar Food, Seafood, Steak",40,4.1,"11 AM to 10 PM (Mon-Thu), 11 AM to 11 PM (Fri-Sat), 10 AM to 10 PM (Sun)",41,231.0,33.44938,-86.73229,"(33.44938, -86.73229)",0,0,1,0,0,0,4,0,0,1
+278,Mellow Mushroom,"Pizza, Sandwich, Healthy Food",25,4.2,"11 AM to 10 PM (Mon-Thu, Sun), 11 AM to 11 PM (Fri-Sat)",41,239.0,33.49952,-86.79581,"(33.49952, -86.79581)",2,8,0,6,4,1,1,2,4,3
+279,Taste of Thailand,Thai,25,4.2,"11 AM to 1:30 PM, 4:30 PM to 8:30 PM (Tue-Fri), 11 AM to 2:30 PM, 4:30 PM to 8:30 PM (Sat), 11 AM to 8 PM (Sun), Mon Closed",58,216.0,33.393833,-86.798166,"(33.393833, -86.798166)",0,0,0,0,0,0,0,0,0,1
+280,Ginza,"Japanese, Korean, Sushi",40,4.1,"11 AM to 2 PM, 5 PM to 10 PM (Tue-Fri), 11 AM to 2 PM, 4 PM to 10 PM (Sat), 4 PM to 9 PM (Sun), Mon Closed",60,215.0,33.414246,-86.699845,"(33.414246, -86.699845)",0,0,0,0,0,0,0,1,0,1
+281,Konomi,"Japanese, Sushi",40,4.3,"11 AM to 2 PM, 4:30 PM to 9:30 PM (Mon-Thu),11 AM to 2 PM, 4:30 PM to 10:30 PM (Fri),4:30 PM to 10:30 PM (Sat),11 AM to 2 PM, 4:30 PM to 9 PM (Sun)",50,211.0,33.64458,-86.63677,"(33.64458, -86.63677)",0,0,0,0,0,0,0,0,0,1
+282,Fleming's Prime Steakhouse & Wine Bar,"American, Seafood, Steak",70,4.2,"4:30 PM to 10 PM (Mon-Thu), 4:30 PM to 11 PM (Fri-Sat), 11 AM to 9 PM (Sun)",43,226.0,33.44938,-86.73229,"(33.44938, -86.73229)",0,0,1,0,0,0,4,0,0,1
+283,Tortugas Pizza,Pizza,25,4.2,"Closed (Mon, Sun), 4 PM to 8:30 PM (Tue-Thu),11 AM to 9 PM (Fri-Sat)",44,228.0,33.365363,-86.823826,"(33.365363, -86.823826)",0,0,0,0,0,0,0,1,1,1
+284,Nori Thai and Sushi Restaurant,"Asian, Sushi, Thai",20,4.2,"11 AM to 9 PM (Tue-Thu, Sun), 11 AM to 10 PM (Fri), 12 Noon to 10 PM (Sat), Mon Closed",88,175.0,33.43318,-86.73795,"(33.43318, -86.73795)",0,0,0,0,1,1,0,0,0,1
+285,Salvatores Pizza & Pasta,"Italian, Pizza, Sandwich",25,4.1,11 AM to 10 PM,52,219.0,33.40156,-86.80614,"(33.40156, -86.80614)",0,0,0,0,0,1,0,0,0,1
+286,Satterfield's,"American, Seafood",70,4.2,"4 PM to 9 PM (Mon-Thu),4 PM to 10 PM (Fri-Sat),Closed (Sun)",42,197.0,33.454323,-86.733631,"(33.454323, -86.733631)",0,0,1,0,0,0,4,0,0,1
+287,De Vinci's Pizza,"Pizza, Italian",25,4.1,"11 AM to 9 PM (Mon, Tue, Wed, Sun), 7 AM to 9 PM (Thu-Sat)",66,205.0,33.482389,-86.791635,"(33.482389, -86.791635)",0,0,0,0,3,1,3,1,4,1
+288,Amore Ristorante Italiano,"Italian, Mediterranean, Seafood",70,4.2,"Closed (Mon, Sun), 5 PM to 9 PM (Tue-Thu),5 PM to 9:30 PM (Fri-Sat)",82,174.0,33.405996,-86.664275,"(33.405996, -86.664275)",0,0,1,0,0,1,0,0,0,1
+289,Bellini's Ristorante & Bar,"Desserts, Italian, Steak",70,3.9,"11 AM to 2 PM, 4 PM to 9 PM (Mon-Wed), 11 AM to 2 PM, 4 PM to 9:30 PM (Thu), 11 AM to 10 PM (Fri-Sat), Sun Closed",60,186.0,33.41214,-86.67578,"(33.41214, -86.67578)",0,0,0,0,0,0,0,0,0,1
+290,Edgar's Bakery,"Breakfast, Sandwich",10,4.0,"6:30 AM to 6 PM (Mon-Sat),Closed (Sun)",60,193.0,33.374327,-86.814908,"(33.374327, -86.814908)",1,0,1,0,0,1,0,1,0,4
+291,Parish Seafood & Oyster House,"Seafood, Southern, Cajun",40,3.6,"11 AM to 10 PM (Mon-Sat),12 Noon to 3 PM (Sun)",93,149.0,33.608552,-86.6282001,"(33.608552, -86.6282001)",0,0,0,0,0,0,0,0,0,1
+292,Costa's Mediterranean Cafe,"Greek, Italian, Mediterranean",25,3.9,"11 AM to 9 PM (Mon-Thu),11 AM to 10 PM (Fri),12 Noon to 10 PM (Sat),Closed (Sun)",54,185.0,33.390984,-86.796867,"(33.390984, -86.796867)",0,0,0,0,0,0,0,0,0,4
+293,Taziki's Mediterranean Cafe,"American, Greek, Mediterranean",25,4.2,"11 AM to 9 PM (Mon-Sat), 11 AM to 8 PM (Sun)",24,209.0,33.437269,-86.7296985,"(33.437269, -86.7296985)",0,0,0,0,1,1,0,3,1,4
+294,Surin of Thailand,"Asian, Sushi, Thai",25,4.1,"11:15 AM to 2 PM, 5 PM to 9 PM (Mon, Tue, Wed, Thu, Sun), 11:15 AM to 2 PM, 5 PM to 9:30 PM (Fri-Sat)",25,212.0,33.50223,-86.75573,"(33.50223, -86.75573)",0,0,0,0,0,0,0,0,0,4
+295,Sumo Japanese Steak House,"Japanese, Steak, Sushi",40,3.9,"11 AM to 2 PM, 4 PM to 10 PM (Mon-Thu),11 AM to 2 PM, 4 PM to 11 PM (Fri),11 AM to 11 PM (Sat),11 AM to 10 PM (Sun)",48,190.0,33.375051,-86.814665,"(33.375051, -86.814665)",1,0,1,0,0,1,0,1,0,1
+296,Maki Fresh,"Asian, Japanese, Sushi",10,4.0,11 AM to 9 PM (Mon-Sun),39,183.0,33.46344,-86.74614,"(33.46344, -86.74614)",0,0,0,0,0,0,1,0,0,4
+297,Nino's Italian Restaurant,"Italian, Pizza, Sandwich",10,3.9,"11 AM to 9 PM (Mon-Wed),11 AM to 11 PM (Thu-Sat),12 Noon to 8 PM (Sun)",105,186.0,33.315206,-86.800347,"(33.315206, -86.800347)",0,0,0,0,0,0,0,0,0,1
+298,Fig Tree Cafe,Cafe,35,4.1,"Closed (Mon),11 AM to 2 PM, 5 PM to 9 PM (Tue-Thu),11 AM to 2 PM, 5 PM to 10 PM (Fri),10 AM to 3 PM, 5 PM to 10 PM (Sat),10 AM to 3 PM (Sun)",97,137.0,33.454987,-86.733677,"(33.454987, -86.733677)",0,0,1,0,0,0,3,0,0,1
+299,Baumhower's Restaurant,"Burger, Bar Food, Sandwich",25,3.9,"11 AM to 10 PM (Mon, Tue, Wed, Thu, Sun), 11 AM to 11 PM (Fri-Sat)",91,181.0,33.410897,-86.671196,"(33.410897, -86.671196)",0,0,1,0,0,1,0,0,0,1
