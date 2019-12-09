@@ -1,0 +1,9 @@
+*{margin:0px;padding:0px;}
+
+table{width:500px;border-collapse:collapse}
+table td{border:1px solid #000;height:70px;font-size:36px;text-align:center	}
+.td1{background-color:#E8E8D1}
+.td2{background-color:#E9EBBC;width:200px;}
+.td3{background-color:#DCDEA6}
+.td4{background-color:#C3C493}
+.td5{background-color:#A4A67E}

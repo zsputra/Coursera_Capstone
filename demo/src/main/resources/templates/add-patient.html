@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Add User</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="../css/shards.min.css"> -->
+</head>
+<body>
+<nav class="navbar navbar-expand-lg  fixed-top" style="background-color: #e3f2fd;">
+    <div class="container">
+        <a class="navbar-brand" th:href="@{/patient/home}" style="color: black">Clinic</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" th:href="@{/patient/home}" style="color: black">Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:href="@{/patient/login/admins}" style="color: black">Admins</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:href="@{/patient/login/doctor}" style="color: black">Doctor</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:href="@{/patient/login/apoteker}" style="color: black">Apoteker</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container my-5">
+    <h3> Register Patient</h3>
+    <div class="card">
+        <div class="card-body">
+            <div class="col-md-10">
+                <form action="#" th:action="@{/patient/add-patient}" th:object="${patient}" method="post">
+                    <div class="row">
+                        <div class="form-group col-md-8">
+                            <label for="firstname" class="col-form-label">First Name</label> <input type="text" th:field="*{firstName}" class="form-control" id="firstname" placeholder="First Name">
+                        </div>
+                        <div class="form-group col-md-8">
+                            <label for="lastname" class="col-form-label">Last Name</label> <input type="text" th:field="*{lastName}" class="form-control" id="lastname" placeholder="Last Name"> <span th:if="${#fields.hasErrors('lastName')}" th:errors="*{lastName}" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-md-8">
+                            <label for="age" class="col-form-label">Age</label> <input type="number" th:field="*{age}" class="form-control" id="age" placeholder="Age"> <span th:if="${#fields.hasErrors('age')}" th:errors="*{age}" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-md-8">
+                            <label for="gender" class="col-form-label">Gender</label> <select multiple class="form-control" th:field="*{gender}" id="gender">
+                            <option th:value="'M'" value="male">Male</option>
+                            <option th:value="'F'" value="female">Female</option>
+                        </select> <span th:if="${#fields.hasErrors('gender')}" th:errors="*{gender}" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-md-8">
+                            <label for="identityNumber" class="col-form-label">Identity Number</label> <input type="text" th:field="*{identityNumber}" class="form-control" id="identityNumber" placeholder="Identity Number"> <span th:if="${#fields.hasErrors('identityNumber')}" th:errors="*{identityNumber}" class="text-danger"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <input type="submit" class="btn btn-primary" value="Add Patient">
+                        </div>
+
+                        <div class="form-group col-md-8"></div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

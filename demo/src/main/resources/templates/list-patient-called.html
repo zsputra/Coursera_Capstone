@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Users</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link th:href="@{/Css/home.css}" rel="stylesheet"/>
+    <!-- <link rel="stylesheet" href="../css/shards.min.css"> -->
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg  fixed-top" style="background-color: #e3f2fd;">
+    <div class="container">
+        <a class="navbar-brand" th:href="@{/patient/home}" style="color: black">Clinic</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" th:href="@{/patient/home}" style="color: black">Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:href="@{/patient/login/admins}" style="color: black">Admins</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:href="@{/patient/login/doctor}" style="color: black">Doctor</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:href="@{/patient/login/apoteker}" style="color: black">Apoteker</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<header class="masthead">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center">
+            <div class="col-12 text-center">
+<!--                <h1 class="font-weight-light">Patient Queue Management System</h1>-->
+                <div class="container my-2" th:object = "${doctor_id}">
+                    <div class="card">
+                        <div>
+                            <h4>Your Patient</h4>
+                        </div>
+                        <div class="card-body">
+                            <div th:switch="${patients}" class="container my-5">
+                                <div class="col-md-10">
+                                    <h2 th:case="null">No Patient yet!</h2>
+                                    <div th:case="*">
+                                        <table class="table table-striped table-responsive-md">
+                                            <thead>
+                                            <tr>
+                                                <th>No.</th>
+                                                <th>First Name</th>
+                                                <th>Last Name</th>
+                                                <th></th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr th:each="patient : ${patients}">
+                                                <td th:text="${patient.patient_id}"></td>
+                                                <td th:text="${patient.firstname}"></td>
+                                                <td th:text="${patient.lastname}"></td>
+                                                <td><a th:href="@{'/patient/patient-treatment/'+${patient.patient_id}+'/'+${doctor_id}}" class="btn btn-primary"><i class="fas fa-user-times ml-2"></i>Examine</a></td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container my-2" th:object = "${congrats}">
+                    <div>
+                        <h4 th:text = "${congrats}" style="color:blue"></h4>
+                    </div>
+                    <div>
+                        <h4>Pattients done the treatment</h4>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <div th:switch="${patientsDoneTreatment}" class="container my-5">
+                                <div class="col-md-10">
+                                    <h2 th:case="null">No Patient yet!</h2>
+                                    <div th:case="*">
+                                        <table class="table table-striped table-responsive-md">
+                                            <thead>
+                                            <tr>
+                                                <th>No.</th>
+                                                <th>First Name</th>
+                                                <th>Last Name</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr th:each="patien, key : ${patientsDoneTreatment}">
+                                                <td th:text="${key.count}"></td>
+                                                <td th:text="${patien.firstName}"></td>
+                                                <td th:text="${patien.lastName}"></td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<!--                <p class="lead">Make Your Patient Become More Patient</p>-->
+            </div>
+        </div>
+    </div>
+</header>
+
+</body>
+
+</html>
